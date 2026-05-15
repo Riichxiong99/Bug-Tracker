@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/BugTrackerPro.dir/Src/main.cpp.o CMakeFiles/BugTrackerPro.dir/Src/Bug.cpp.o CMakeFiles/BugTrackerPro.dir/Src/Customer.cpp.o CMakeFiles/BugTrackerPro.dir/Src/Products.cpp.o CMakeFiles/BugTrackerPro.dir/Src/Employee.cpp.o CMakeFiles/BugTrackerPro.dir/Src/Features.cpp.o CMakeFiles/BugTrackerPro.dir/Src/UI.cpp.o -o BugTrackerPro 

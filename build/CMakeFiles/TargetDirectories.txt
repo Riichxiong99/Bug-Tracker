@@ -1,0 +1,3 @@
+/home/icebankyou/Documents/BugTrackingProgram/build/CMakeFiles/BugTrackerPro.dir
+/home/icebankyou/Documents/BugTrackingProgram/build/CMakeFiles/edit_cache.dir
+/home/icebankyou/Documents/BugTrackingProgram/build/CMakeFiles/rebuild_cache.dir
