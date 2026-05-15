@@ -1,4 +1,4 @@
-# BugTrackerPro
+# BugTracker
 
 A console-based bug and feature tracking system written in C++. Manage bugs, feature requests, customers, employees, and products through a menu-driven interface with persistent binary storage.
 
